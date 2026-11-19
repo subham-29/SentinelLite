@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+# Project data and secrets
+data/
+*.db
+.env
+config.local.yml
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
